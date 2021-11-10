@@ -24,6 +24,8 @@
 
 [Greenshot](https://getgreenshot.org/): "light-weight screenshot software tool"
 
+[ImDisk Virtual Disk Driver](https://www.ltr-data.se/opencode.html/#ImDisk): "virtual disk driver [...] create virtual hard disk, floppy or CD/DVD drives using image files or system memory"
+
 [IrfanView](https://www.irfanview.com/): "Fast and compact" graphic viewer
 
 [IsoBuster](https://www.isobuster.com/isobuster.php): "highly specialized yet easy to use media data recovery tool"
