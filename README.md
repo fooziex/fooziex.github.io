@@ -14,6 +14,10 @@
 
 #### GUI
 
+[7-Zip](https://www.7-zip.org/): "file archiver with a high compression ratio"
+
+[7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/): "7-Zip ZS with support of additional Codecs [Zstandard, Brotli, LZ4, LZ5, Lizard, Fast LZMA2]"
+
 [Depeche View](http://www.stahlworks.com/dev/depeche-view.html): "loads all text files from a folder, showing all content in one window"
 
 [foobar2000](https://www.foobar2000.org/): "advanced freeware audio player for the Windows platform"
@@ -34,7 +38,11 @@
 
 [Q-Dir](http://q-dir.com/): "great alternative file manager for Windows with a amazing Quadro-View technique"
 
+[Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite): "utilities to help you manage, troubleshoot and diagnose your Windows systems and applications"
+
 [V File Viewer](https://www.fileviewer.com/): "all-purpose File Manager for Windows with a powerful inbuilt text file viewer which excels at viewing files quickly"
+
+[WinRAR](https://www.rarlab.com/): "powerful archive manager"
 
 [XVI32](http://www.chmaas.handshake.de/delphi/freeware/xvi32/xvi32.htm): "freeware hex editor"
 
@@ -54,17 +62,23 @@
 
 [Signet](https://eclecticlight.co/taccy-signet-precize-alifix-utiutility-alisma/): scans and checks bundle signatures
 
+[SubEthaEdit](https://subethaedit.net/): "Write articles, code, notes or meeting minutes with friends – wherever they are"
+
 [Taccy](https://eclecticlight.co/taccy-signet-precize-alifix-utiutility-alisma/): troubleshoot signature and privacy problems
 
 ### Multi-Platform
 
 [010 Editor](https://www.sweetscape.com/010editor/): "Unlike traditional hex editors which only display the raw hex bytes of a file, 010 Editor can also parse a file into a hierarchical structure using a Binary Template"
 
+[Calibre](https://calibre-ebook.com/): "powerful and easy to use e-book manager"
+
 [GitKraken](https://www.gitkraken.com/): "Legendary Git GUI client for Windows, Mac & Linux"
 
 [HandBrake](https://handbrake.fr/): "tool for converting video from nearly any format to a selection of modern, widely supported codecs"
 
 [MKVToolNix](https://mkvtoolnix.download/): "set of tools to create, alter and inspect Matroska files"
+
+[Sigil](https://sigil-ebook.com/sigil/): "designed to make it easy to create great ebooks using the EPUB format"
 
 [Sublime Text](https://www.sublimetext.com/): "Text Editing, Done Right"
 
