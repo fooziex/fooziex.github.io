@@ -4,6 +4,8 @@
 
 ### Windows
 
+[Clink](https://chrisant996.github.io/clink/): "Bash's powerful command line editing in cmd.exe"
+
 [ConEmu](https://conemu.github.io/): "Comprehensive, fast and reliable terminal"
 
 [Markdown Monster](https://markdownmonster.west-wind.com/): "Markdown Monster is a powerful, yet easy to use Markdown editor and viewer"
@@ -22,6 +24,8 @@
 
 
 ### Multi-Platform
+
+[Sublime Text](https://www.sublimetext.com/): "Text Editing, Done Right"
 
 [Treesheets](https://strlen.com/treesheets/): "Free Form Data Organizer"
 
