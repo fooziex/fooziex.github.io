@@ -74,6 +74,12 @@
 
 [Calibre](https://calibre-ebook.com/): "powerful and easy to use e-book manager"
 
+[ffmpeg](https://ffmpeg.org/): "A complete, cross-platform solution to record, convert and stream audio and video."
+
+[ffmpeg builds for yt-dlp](https://github.com/yt-dlp/FFmpeg-Builds): "This repository provides static Windows (x86 and x86_64) and Linux (x86_64) Builds of ffmpeg master and latest release branch with some patches necesssary for smooth integration with yt-dlp"
+
+[ffmpeg Windows builds](https://www.gyan.dev/ffmpeg/builds/): "packages containing binaries of ffmpeg, ffprobe and ffplay"
+
 [GitKraken](https://www.gitkraken.com/): "Legendary Git GUI client for Windows, Mac & Linux"
 
 [HandBrake](https://handbrake.fr/): "tool for converting video from nearly any format to a selection of modern, widely supported codecs"
@@ -91,6 +97,8 @@
 [VueScan](https://www.hamrick.com/): "The Tool For All Your Scanning Needs"
 
 [youtube-dl](https://ytdl-org.github.io/youtube-dl/): "command-line program to download videos from YouTube.com and a few [more sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)"
+
+[yt-dlp](https://github.com/yt-dlp): "a [youtube-dl](https://ytdl-org.github.io/youtube-dl/) fork based on the now inactive [youtube-dlc](https://github.com/blackjack4494/yt-dlc). The main focus of this project is adding new features and patches while also keeping up to date with the original project"
 
 ### Firefox Add-ons
 
