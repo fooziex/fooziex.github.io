@@ -10,6 +10,8 @@
 
 [ConEmu](https://conemu.github.io/): "Comprehensive, fast and reliable terminal"
 
+[FAR Manager](https://www.farmanager.com/): "a program for managing files and archives in Windows operating systems. [...] works in text mode and provides a simple and intuitive interface"
+
 [MSYS2](https://www.msys2.org): "a collection of [[UNIX-style](https://www.msys2.org/docs/what-is-msys2/)] tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software"
 
 #### GUI
@@ -38,6 +40,8 @@
 
 [Notepad++](https://notepad-plus-plus.org/): "free (as in 'free speech' and also as in 'free beer') source code editor and Notepad replacement that supports several languages"
 
+[Process Hacker](https://processhacker.sourceforge.io/): fancy process monitor with advanced features, superior to Sysinternals Process Manager. "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware."
+
 [Q-Dir](http://q-dir.com/): "great alternative file manager for Windows with a amazing Quadro-View technique"
 
 [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite): "utilities to help you manage, troubleshoot and diagnose your Windows systems and applications"
@@ -57,6 +61,8 @@
 [Keka](https://www.keka.io/en/): "macOS file archiver"
 
 [iTerm2](https://iterm2.com/): "replacement for Terminal [...] iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+[NMap](https://nmap.org/): "free and open source (license) utility for network discovery and security auditing"
 
 [Path Finder](https://cocoatech.com/): "File manager for macOS". Much better than the *terrible* Finder.
 
@@ -79,6 +85,8 @@
 [ffmpeg builds for yt-dlp](https://github.com/yt-dlp/FFmpeg-Builds): "This repository provides static Windows (x86 and x86_64) and Linux (x86_64) Builds of ffmpeg master and latest release branch with some patches necesssary for smooth integration with yt-dlp"
 
 [ffmpeg Windows builds](https://www.gyan.dev/ffmpeg/builds/): "packages containing binaries of ffmpeg, ffprobe and ffplay"
+
+[FileZilla](https://filezilla-project.org/): "not only supports FTP, but also FTP over TLS (FTPS) and SFTP"
 
 [GitKraken](https://www.gitkraken.com/): "Legendary Git GUI client for Windows, Mac & Linux"
 
