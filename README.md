@@ -28,7 +28,7 @@
 
 [Greenshot](https://getgreenshot.org/): "light-weight screenshot software tool"
 
-[ImDisk Virtual Disk Driver](https://www.ltr-data.se/opencode.html/#ImDisk): "virtual disk driver [⋯] create virtual hard disk, floppy or CD/DVD drives using image files or system memory"
+[ImDisk Virtual Disk Driver](https://www.ltr-data.se/opencode.html/#ImDisk): "virtual disk driver […] create virtual hard disk, floppy or CD/DVD drives using image files or system memory"
 
 [IrfanView](https://www.irfanview.com/): "Fast and compact" graphic viewer
 
@@ -64,13 +64,7 @@
 
 [Access Menu](https://titanium-software.fr/en/accessmenu.html): "quickly access the startup disk's folders from the menu bar"
 
-Apple Developer: «[All](https://developer.apple.com/download/all/)» «[Release](https://developer.apple.com/download/release/)» «[Beta](https://developer.apple.com/download/)»
-
-Apple Developer: 〖[All](https://developer.apple.com/download/all/)〗 〖[Release](https://developer.apple.com/download/release/)〗 〖[Beta](https://developer.apple.com/download/)〗
-
-Apple Developer: 〔[All](https://developer.apple.com/download/all/)〕 〔[Release](https://developer.apple.com/download/release/)〕 〔[Beta](https://developer.apple.com/download/)〕
-
-Apple Developer: 「[All](https://developer.apple.com/download/all/)」 「[Release](https://developer.apple.com/download/release/)」 「[Beta](https://developer.apple.com/download/)」
+[Apple Developer](https://developer.apple.com/): 「[All](https://developer.apple.com/download/all/)」 「[Release](https://developer.apple.com/download/release/)」 「[Beta](https://developer.apple.com/download/)」
 
 [BBEdit](http://www.barebones.com/products/bbedit/index.html): "professional HTML and text editor"
 
@@ -86,7 +80,11 @@ Apple Developer: 「[All](https://developer.apple.com/download/all/)」 「[Rele
 
 [iCab](http://icab.de/): "alternative web browser for the Apple Mac with numerous useful features not found in other browsers"
 
-[iTerm2](https://iterm2.com/): "replacement for Terminal [⋯] iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+[iTerm2](https://iterm2.com/): "replacement for Terminal […] iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+[iTerm2](https://iterm2.com/): "replacement for Terminal ⟦…⟧ iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+[iTerm2](https://iterm2.com/): "replacement for Terminal 【…】 iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+[iTerm2](https://iterm2.com/): "replacement for Terminal «…» iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+[iTerm2](https://iterm2.com/): "replacement for Terminal 〘…〙 iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
 
 [OnyX](https://titanium-software.fr/en/onyx.html): "multifunction utility […] to verify the startup disk and the structure of its system files; run tasks of cleaning and computer maintenance; configure some hidden parameters of many Apple applications; and more"
 
@@ -94,7 +92,7 @@ Apple Developer: 「[All](https://developer.apple.com/download/all/)」 「[Rele
 
 [PixelMator Pro](https://www.pixelmator.com/pro/): "image editor designed to make the most powerful professional image editing tools accessible to everyone"
 
-[Quod Libet](https://quodlibet.readthedocs.io/en/latest/): "GTK+-based audio player written in Python, using the Mutagen tagging library. [⋯] ] Unicode support, advanced tag editing, Replay Gain, podcasts & Internet radio, album art support and all major audio formats"
+[Quod Libet](https://quodlibet.readthedocs.io/en/latest/): "GTK+-based audio player written in Python, using the Mutagen tagging library. […] Unicode support, advanced tag editing, Replay Gain, podcasts & Internet radio, album art support and all major audio formats"
 
 [Signet](https://eclecticlight.co/taccy-signet-precize-alifix-utiutility-alisma/): scans and checks bundle signatures
 
