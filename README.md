@@ -81,10 +81,22 @@
 [iCab](http://icab.de/): "alternative web browser for the Apple Mac with numerous useful features not found in other browsers"
 
 [iTerm2](https://iterm2.com/): "replacement for Terminal […] iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
 [iTerm2](https://iterm2.com/): "replacement for Terminal ⟦…⟧ iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
-[iTerm2](https://iterm2.com/): "replacement for Terminal 【…】 iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
-[iTerm2](https://iterm2.com/): "replacement for Terminal «…» iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
-[iTerm2](https://iterm2.com/): "replacement for Terminal 〘…〙 iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+[iTerm2](https://iterm2.com/): "replacement for Terminal ［…］ iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+[iTerm2](https://iterm2.com/): "replacement for Terminal ⁅…⁆ iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+[iTerm2](https://iterm2.com/): "replacement for Terminal 《…》 iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+[iTerm2](https://iterm2.com/): "replacement for Terminal 「…」 iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+[iTerm2](https://iterm2.com/): "replacement for Terminal 『…』 iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+[iTerm2](https://iterm2.com/): "replacement for Terminal ⦅…⦆ iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+
 
 [OnyX](https://titanium-software.fr/en/onyx.html): "multifunction utility […] to verify the startup disk and the structure of its system files; run tasks of cleaning and computer maintenance; configure some hidden parameters of many Apple applications; and more"
 
