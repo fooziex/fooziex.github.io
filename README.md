@@ -48,6 +48,8 @@
 
 [Q-Dir](http://q-dir.com/): "great alternative file manager for Windows with a amazing Quadro-View technique"
 
+[Sandboxie+](https://github.com/sandboxie-plus/Sandboxie): "sandbox-based isolation software for 32-bit and 64-bit Windows NT-based operating systems"
+
 [ShutUp10++](https://www.oo-software.com/en/shutup10): "Decide for yourself how important your “comfort” is when weighed up with your privacy and how to protect it"
 
 [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite): "utilities to help you manage, troubleshoot and diagnose your Windows systems and applications"
@@ -101,6 +103,8 @@
 [MKVToolNix](https://mkvtoolnix.download/): "set of tools to create, alter and inspect Matroska files"
 
 [Nmap](https://nmap.org/): "utility for network discovery and security auditing"
+
+[REAPER](https://www.reaper.fm/): "complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset"
 
 [Sigil](https://sigil-ebook.com/sigil/): "designed to make it easy to create great ebooks using the EPUB format"
 
