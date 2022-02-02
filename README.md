@@ -112,6 +112,8 @@
 
 [VueScan](https://www.hamrick.com/): "The Tool For All Your Scanning Needs"
 
+[Wireshark](https://www.wireshark.org/): "network protocol analyzer"
+
 [youtube-dl](https://ytdl-org.github.io/youtube-dl/): "command-line program to download videos from YouTube.com and a few [more sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)"
 
 [yt-dlp](https://github.com/yt-dlp/yt-dlp): "[youtube-dl](https://github.com/ytdl-org/youtube-dl) fork based on the now inactive [youtube-dlc](https://github.com/blackjack4494/yt-dlc). The main focus of this project is adding new features and patches while also keeping up to date with the original project"
