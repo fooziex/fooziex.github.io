@@ -92,11 +92,7 @@
 
 [Calibre](https://calibre-ebook.com/): "powerful and easy to use e-book manager"
 
-[ffmpeg](https://ffmpeg.org/): "A complete, cross-platform solution to record, convert and stream audio and video."
-
-[ffmpeg builds for yt-dlp](https://github.com/yt-dlp/FFmpeg-Builds): "This repository provides static Windows (x86 and x86_64) and Linux (x86_64) Builds of ffmpeg master and latest release branch with some patches necesssary for smooth integration with yt-dlp"
-
-[ffmpeg Windows builds](https://www.gyan.dev/ffmpeg/builds/): "packages containing binaries of ffmpeg, ffprobe and ffplay"
+[ffmpeg](https://ffmpeg.org/): "A complete, cross-platform solution to record, convert and stream audio and video." [builds for yt-dlp](https://github.com/yt-dlp/FFmpeg-Builds) [Windows builds](https://www.gyan.dev/ffmpeg/builds/)
 
 [FileZilla](https://filezilla-project.org/): "not only supports FTP, but also FTP over TLS (FTPS) and SFTP"
 
