@@ -10,7 +10,7 @@
 
 [ConEmu](https://conemu.github.io/): "Comprehensive, fast and reliable terminal"
 
-[FAR Manager](https://www.farmanager.com/): "a program for managing files and archives in Windows operating systems. [...] works in text mode and provides a simple and intuitive interface"
+[FAR Manager](https://www.farmanager.com/): "a program for managing files and archives in Windows operating systems. […] works in text mode and provides a simple and intuitive interface"
 
 [MSYS2](https://www.msys2.org): "a collection of [[UNIX-style](https://www.msys2.org/docs/what-is-msys2/)] tools and libraries providing you with an easy-to-use environment for building, installing and running native Windows software"
 
@@ -28,7 +28,7 @@
 
 [Greenshot](https://getgreenshot.org/): "light-weight screenshot software tool"
 
-[ImDisk Virtual Disk Driver](https://www.ltr-data.se/opencode.html/#ImDisk): "virtual disk driver [...] create virtual hard disk, floppy or CD/DVD drives using image files or system memory"
+[ImDisk Virtual Disk Driver](https://www.ltr-data.se/opencode.html/#ImDisk): "virtual disk driver [⋯] create virtual hard disk, floppy or CD/DVD drives using image files or system memory"
 
 [IrfanView](https://www.irfanview.com/): "Fast and compact" graphic viewer
 
@@ -62,21 +62,39 @@
 
 ### Apple
 
+[Access Menu](https://titanium-software.fr/en/accessmenu.html): "quickly access the startup disk's folders from the menu bar"
+
+Apple Developer: «[All](https://developer.apple.com/download/all/)» «[Release](https://developer.apple.com/download/release/)» «[Beta](https://developer.apple.com/download/)»
+
+Apple Developer: 〖[All](https://developer.apple.com/download/all/)〗 〖[Release](https://developer.apple.com/download/release/)〗 〖[Beta](https://developer.apple.com/download/)〗
+
+Apple Developer: 〔[All](https://developer.apple.com/download/all/)〕 〔[Release](https://developer.apple.com/download/release/)〕 〔[Beta](https://developer.apple.com/download/)〕
+
+Apple Developer: 「[All](https://developer.apple.com/download/all/)」 「[Release](https://developer.apple.com/download/release/)」 「[Beta](https://developer.apple.com/download/)」
+
 [BBEdit](http://www.barebones.com/products/bbedit/index.html): "professional HTML and text editor"
+
+[CalHash](https://titanium-software.fr/en/calhash.html): "calculate and compare the checksum (also known as a message-digest-fingerprint) for a file"
 
 [Cog](https://cog.losno.co/): "free and open source audio player for macOS"
 
 [CotEditor](https://coteditor.com/): "Plain-Text Editor for macOS"
 
+[Deeper](https://titanium-software.fr/en/deeper.html): "personalization utility […] to enable and disable the hidden functions of the Finder, Dock, Safari, iTunes/Music, login window, and many Apple applications, and more"
+
 [Keka](https://www.keka.io/en/): "macOS file archiver"
 
-[iTerm2](https://iterm2.com/): "replacement for Terminal [...] iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+[iCab](http://icab.de/): "alternative web browser for the Apple Mac with numerous useful features not found in other browsers"
+
+[iTerm2](https://iterm2.com/): "replacement for Terminal [⋯] iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
+
+[OnyX](https://titanium-software.fr/en/onyx.html): "multifunction utility […] to verify the startup disk and the structure of its system files; run tasks of cleaning and computer maintenance; configure some hidden parameters of many Apple applications; and more"
 
 [Path Finder](https://cocoatech.com/): "File manager for macOS". Much better than the *terrible* Finder.
 
 [PixelMator Pro](https://www.pixelmator.com/pro/): "image editor designed to make the most powerful professional image editing tools accessible to everyone"
 
-[Quod Libet](https://quodlibet.readthedocs.io/en/latest/): "GTK+-based audio player written in Python, using the Mutagen tagging library. [...] ] Unicode support, advanced tag editing, Replay Gain, podcasts & Internet radio, album art support and all major audio formats"
+[Quod Libet](https://quodlibet.readthedocs.io/en/latest/): "GTK+-based audio player written in Python, using the Mutagen tagging library. [⋯] ] Unicode support, advanced tag editing, Replay Gain, podcasts & Internet radio, album art support and all major audio formats"
 
 [Signet](https://eclecticlight.co/taccy-signet-precize-alifix-utiutility-alisma/): scans and checks bundle signatures
 
@@ -84,15 +102,21 @@
 
 [Taccy](https://eclecticlight.co/taccy-signet-precize-alifix-utiutility-alisma/): troubleshoot signature and privacy problems
 
+[The Unarchiver](https://macpaw.com/the-unarchiver): "stays out of your way, but will handle any archive you can imagine including weird and rare archives"
+
+[Xee³](https://theunarchiver.com/xee): "streamlined and convenient image viewer and browser […] easily browse the entire contents of folders and archives, move and copy image files quickly, and supports many more image formats"
+
 ### Multi-Platform
 
 [010 Editor](https://www.sweetscape.com/010editor/): "Unlike traditional hex editors which only display the raw hex bytes of a file, 010 Editor can also parse a file into a hierarchical structure using a Binary Template"
+
+[Arduino IDE](https://www.arduino.cc/en/software): "open-source Arduino Software (IDE) makes it easy to write code and upload it to the board"
 
 [Beyond Compare](https://scootersoftware.com/): "Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not"
 
 [Calibre](https://calibre-ebook.com/): "powerful and easy to use e-book manager"
 
-[ffmpeg](https://ffmpeg.org/): "A complete, cross-platform solution to record, convert and stream audio and video." [builds for yt-dlp](https://github.com/yt-dlp/FFmpeg-Builds) [Windows builds](https://www.gyan.dev/ffmpeg/builds/)
+[ffmpeg](https://ffmpeg.org/): "A complete, cross-platform solution to record, convert and stream audio and video." «[builds for yt-dlp](https://github.com/yt-dlp/FFmpeg-Builds)» «[builds for Windows](https://www.gyan.dev/ffmpeg/builds/)»
 
 [FileZilla](https://filezilla-project.org/): "not only supports FTP, but also FTP over TLS (FTPS) and SFTP"
 
@@ -107,6 +131,8 @@
 [Nmap](https://nmap.org/): "utility for network discovery and security auditing"
 
 [REAPER](https://www.reaper.fm/): "complete digital audio production application for computers, offering a full multitrack audio and MIDI recording, editing, processing, mixing and mastering toolset"
+
+[Sattva Descreen plug-in for Adobe Photoshop](http://www.descreen.net/eng/soft/descreen/descreen.htm): "uses the Fourier transform to automatically find parameters of a screen and precisely removes it"
 
 [Sigil](https://sigil-ebook.com/sigil/): "designed to make it easy to create great ebooks using the EPUB format"
 
