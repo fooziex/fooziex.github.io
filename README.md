@@ -68,8 +68,6 @@
 
 [iTerm2](https://iterm2.com/): "replacement for Terminal [...] iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
 
-[Nmap](https://nmap.org/): "free and open source (license) utility for network discovery and security auditing"
-
 [Path Finder](https://cocoatech.com/): "File manager for macOS". Much better than the *terrible* Finder.
 
 [PixelMator Pro](https://www.pixelmator.com/pro/): "image editor designed to make the most powerful professional image editing tools accessible to everyone"
