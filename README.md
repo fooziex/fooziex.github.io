@@ -64,6 +64,8 @@
 
 [BBEdit](http://www.barebones.com/products/bbedit/index.html): "professional HTML and text editor"
 
+[Cog](https://cog.losno.co/): "free and open source audio player for macOS"
+
 [CotEditor](https://coteditor.com/): "Plain-Text Editor for macOS"
 
 [Keka](https://www.keka.io/en/): "macOS file archiver"
@@ -74,6 +76,8 @@
 
 [PixelMator Pro](https://www.pixelmator.com/pro/): "image editor designed to make the most powerful professional image editing tools accessible to everyone"
 
+[Quod Libet](https://quodlibet.readthedocs.io/en/latest/): "GTK+-based audio player written in Python, using the Mutagen tagging library. [...] ] Unicode support, advanced tag editing, Replay Gain, podcasts & Internet radio, album art support and all major audio formats"
+
 [Signet](https://eclecticlight.co/taccy-signet-precize-alifix-utiutility-alisma/): scans and checks bundle signatures
 
 [SubEthaEdit](https://subethaedit.net/): "Write articles, code, notes or meeting minutes with friends – wherever they are"
@@ -83,6 +87,8 @@
 ### Multi-Platform
 
 [010 Editor](https://www.sweetscape.com/010editor/): "Unlike traditional hex editors which only display the raw hex bytes of a file, 010 Editor can also parse a file into a hierarchical structure using a Binary Template"
+
+[Beyond Compare](https://scootersoftware.com/): "Compare files and folders using simple, powerful commands that focus on the differences you're interested in and ignore those you're not"
 
 [Calibre](https://calibre-ebook.com/): "powerful and easy to use e-book manager"
 
