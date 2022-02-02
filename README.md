@@ -20,6 +20,8 @@
 
 [7-Zip ZS](https://github.com/mcmilk/7-Zip-zstd/): "7-Zip ZS with support of additional Codecs [Zstandard, Brotli, LZ4, LZ5, Lizard, Fast LZMA2]"
 
+[Bitvise SSH Client](https://www.bitvise.com/ssh-client): "Free SSH file transfer, terminal and tunneling"
+
 [Depeche View](http://www.stahlworks.com/dev/depeche-view.html): "loads all text files from a folder, showing all content in one window"
 
 [foobar2000](https://www.foobar2000.org/): "advanced freeware audio player for the Windows platform"
@@ -40,9 +42,13 @@
 
 [Notepad++](https://notepad-plus-plus.org/): "free (as in 'free speech' and also as in 'free beer') source code editor and Notepad replacement that supports several languages"
 
-[Process Hacker](https://processhacker.sourceforge.io/): fancy process monitor with advanced features, superior to Sysinternals Process Manager. "A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware."
+[Process Hacker](https://processhacker.sourceforge.io/): "free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware"
+
+[PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/): "free implementation of SSH and Telnet for Windows and Unix platforms, along with an xterm terminal emulator"
 
 [Q-Dir](http://q-dir.com/): "great alternative file manager for Windows with a amazing Quadro-View technique"
+
+[ShutUp10++ (from O&O)](https://www.oo-software.com/en/shutup10): "Decide for yourself how important your “comfort” is when weighed up with your privacy and how to protect it"
 
 [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite): "utilities to help you manage, troubleshoot and diagnose your Windows systems and applications"
 
@@ -92,7 +98,11 @@
 
 [HandBrake](https://handbrake.fr/): "tool for converting video from nearly any format to a selection of modern, widely supported codecs"
 
+[Insomnia](https://github.com/Kong/insomnia): "open-source, cross-platform API client for GraphQL, REST, and gRPC"
+
 [MKVToolNix](https://mkvtoolnix.download/): "set of tools to create, alter and inspect Matroska files"
+
+[Nmap](https://nmap.org/): "utility for network discovery and security auditing"
 
 [Sigil](https://sigil-ebook.com/sigil/): "designed to make it easy to create great ebooks using the EPUB format"
 
@@ -106,7 +116,7 @@
 
 [youtube-dl](https://ytdl-org.github.io/youtube-dl/): "command-line program to download videos from YouTube.com and a few [more sites](https://ytdl-org.github.io/youtube-dl/supportedsites.html)"
 
-[yt-dlp](https://github.com/yt-dlp): "a [youtube-dl](https://ytdl-org.github.io/youtube-dl/) fork based on the now inactive [youtube-dlc](https://github.com/blackjack4494/yt-dlc). The main focus of this project is adding new features and patches while also keeping up to date with the original project"
+[yt-dlp](https://github.com/yt-dlp/yt-dlp): "[youtube-dl](https://github.com/ytdl-org/youtube-dl) fork based on the now inactive [youtube-dlc](https://github.com/blackjack4494/yt-dlc). The main focus of this project is adding new features and patches while also keeping up to date with the original project"
 
 ### Firefox Add-ons
 
