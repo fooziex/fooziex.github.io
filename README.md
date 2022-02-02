@@ -48,7 +48,7 @@
 
 [Q-Dir](http://q-dir.com/): "great alternative file manager for Windows with a amazing Quadro-View technique"
 
-[ShutUp10++ (from O&O)](https://www.oo-software.com/en/shutup10): "Decide for yourself how important your “comfort” is when weighed up with your privacy and how to protect it"
+[ShutUp10++](https://www.oo-software.com/en/shutup10): "Decide for yourself how important your “comfort” is when weighed up with your privacy and how to protect it"
 
 [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite): "utilities to help you manage, troubleshoot and diagnose your Windows systems and applications"
 
@@ -68,7 +68,7 @@
 
 [iTerm2](https://iterm2.com/): "replacement for Terminal [...] iTerm2 brings the terminal into the modern age with features you never knew you always wanted"
 
-[NMap](https://nmap.org/): "free and open source (license) utility for network discovery and security auditing"
+[Nmap](https://nmap.org/): "free and open source (license) utility for network discovery and security auditing"
 
 [Path Finder](https://cocoatech.com/): "File manager for macOS". Much better than the *terrible* Finder.
 
